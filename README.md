@@ -18,7 +18,7 @@ Program NgunTunk adalah aplikasi sederhana berbasis python yang berfungsi untuk 
 4. Pengguna memiliki opsi untuk melakukan perhitungan lagi atau mengakhiri program.
 
 ## Contoh Penggunaan
-Misalnya, untuk menghitung luas persegi dengan sisi 5:
+Misalnya, untuk menghitung luas persegi panjang dengan panjang 10 cm dan lebar 3 cm:
 ```plaintext
 +------------------------------------------------------------+
 Selamat Datang di Program NgunTunk
